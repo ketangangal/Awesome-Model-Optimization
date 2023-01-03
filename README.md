@@ -1,2 +1,2 @@
 # model-optimization-integration-template
-# List of all possible ways of optimization 
+List of all possible ways of optimization 
