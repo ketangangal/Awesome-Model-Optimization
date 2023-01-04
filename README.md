@@ -1,6 +1,11 @@
-# model-optimization-integration-template
+# Awesome Model Optimization Techniques
+This repository contains a curated list of different ways of optimization and compression techiniques for the Machine Learning Models.
+
+# Main Content
+## Quick links to sections in this page
 
 ## Concepts 
+
 Model Compression and Architecture Optimization
 1. Compression Techniques 
       - Pruning
@@ -32,7 +37,6 @@ List of all possible ways of optimization
 5. coreML for mobile device
 6. Neural Architecture Search (NAS)
 7. Low-Rank Approximation
-
 
 
 
